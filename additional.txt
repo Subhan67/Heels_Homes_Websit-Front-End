@@ -1,0 +1,24 @@
+<div class="container">
+        <div class="row border border-info border-4 mt-2">
+          <div class="col-md-5 d-flex align-items-stretch">
+            <div class="bg-info Ptext">
+              <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas
+                asperiores maiores commodi nam molestiae quis reprehenderit.
+                Doloribus quibusdam debitis, quas sed eius voluptates esse vitae
+                sit, adipisci quisquam modi nemo?
+              </p>
+            </div>
+          </div>
+          <div class="col-md-7 d-flex align-items-stretch">
+            <div class="bg-info Ptext">
+              <p>
+                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Quas
+                asperiores maiores commodi nam molestiae quis reprehenderit.
+                Doloribus quibusdam debitis, quas sed eius voluptates esse vitae
+                sit, adipisci quisquam modi nemo?
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>

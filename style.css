@@ -35,3 +35,108 @@ a:hover{
     color: rgba(51, 51, 51, 1);
     /* align-items: center; */
 }
+.Ptext{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* margin: 10px; */
+    padding: 30px;
+}
+#banner{
+    background-image: url('FeatureSection.png');
+    background-size: cover;
+    background-position: center;
+    padding: 79px 0 0px;
+  }
+.heroText h1{
+font-style: normal;
+font-weight: 700;
+font-size: 41px;
+line-height: 1.3;
+letter-spacing: 0.01em;
+text-transform: uppercase;
+color: #FFFFFF;
+margin-bottom: 8px;
+}
+.heroText p{
+    margin-bottom: 24px;
+color: #FFFFFF;
+letter-spacing: 0.01em;
+}
+.icon{
+    background-image: url('locationIcon.png');
+    background-size: cover;
+    background-position: center;
+    padding: 28px;
+  
+}
+.bg-orange{
+    background-color: rgba(252, 148, 38, 1);
+    color: #FFFFFF;
+    letter-spacing: 0.01em;
+    /* background-size: cover; */
+}
+.form-container{
+    margin-bottom: 24px;
+}
+input::placeholder{
+    font-style: italic;
+}
+#banner-footer{
+    background-color: rgba(252, 148, 38, 1);
+    color: #FFFFFF;
+    padding: 20px 0 16px;
+}
+#cards .card {
+    border-radius: 0;
+    box-shadow: 0 1px 25px rgba(0, 0, 0, 0.1);
+    padding: 5px;
+    border: 0;
+    text-align: center;
+  }
+  #offer-button h2{
+    font-weight: bold;
+  }
+
+  #offer-button .image-card {
+    border-radius: 0.35rem;
+    box-shadow: 0 2px 25px rgba(0, 0, 0, 0.1);
+    border: 0;
+    margin: 0;
+    padding: 7px;
+    
+  }
+  #cash-offer{
+    display: flex;
+    background-color: #074C82;
+    color: #FFFFFF; 
+    padding: 62px;
+    margin-bottom: 5rem;
+  }
+
+  #cash-offer .highlight1 {
+    font-weight: bold;
+    font-size: 30px;
+  }
+  #cash-offer .highlight2 {
+    color: rgba(252, 148, 38, 1);
+  }
+  #cash-offer .highlight{
+font-style: normal;
+font-weight: 400;
+font-size:20px ;
+letter-spacing: 0.01em;
+  }
+  #cash-offer .opesity{
+    opacity: 0.9;
+    font-size: 16px;
+  }
+  
+  #cash-offer p {
+    text-align: justify;
+  }
+
+  #cash-offer .custom-border {
+    border: 2.97px solid white;
+  }
+  
